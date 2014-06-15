@@ -11,7 +11,7 @@ In addition merging the test/training sets, the summarized dataset binds the sub
 * "standing" 
 * "laying" 
 
-This dataset preserves the sensor reading variable names used in the original study, listed below. This cited description is from "features_info.txt" which is published as part of the study documentation. The summarized dataset includes the mean for each set of readings from the sensor worn by each subject performing each of the actions. 
+This dataset preserves the sensor reading variable names used in the original study, listed below. The quoted section on feature selection is from "features_info.txt," which is published as part of the study documentation. The summarized dataset includes the mean for each set of readings from the sensor worn by each subject performing each of the actions. 
 
 > Feature Selection 
 > =================
