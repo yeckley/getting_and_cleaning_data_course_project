@@ -1,4 +1,4 @@
-# Codebook for Course Assignment in the JHU/Coursera course *Getting & Cleaning Data*.
+## Codebook for Course Assignment in the JHU/Coursera course *Getting & Cleaning Data*.
 
 In tidying up the data, the training and test sets were merged into a single summarized dataset. The "set" variable contains a flag indicating which set an observation was drawn from. The full dataset is available [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
