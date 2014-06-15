@@ -6,7 +6,8 @@ In addition merging the test/training sets, the summarized dataset binds the sub
 
 * "walking"
 * "walking_upstairs"
-* "walking_downstairs" "sitting"
+* "walking_downstairs"
+* "sitting"
 * "standing" 
 * "laying" 
 
